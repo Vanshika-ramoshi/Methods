@@ -6,3 +6,4 @@ public class Recharge {
         System.out.println("Recharge Amount = " + amount);
     }
 }
+
